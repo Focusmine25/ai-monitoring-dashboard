@@ -6,6 +6,24 @@ AI Monitoring Dashboard is an AIOps and Machine Learning project that monitors i
 
 The dashboard provides real-time visibility into system health, anomaly counts, infrastructure metrics, and downloadable reports.
 
+## Dashboard Screenshots
+
+### AI Monitoring Dashboard Overview
+
+![Dashboard 1](screenshots/dashboard1.png)
+
+---
+
+### Infrastructure Metrics & Charts
+
+![Dashboard 2](screenshots/dashboard2.png)
+
+---
+
+### Anomaly Detection View
+
+![Dashboard 3](screenshots/dashboard3.png)
+
 ## Features
 
 - Infrastructure monitoring
